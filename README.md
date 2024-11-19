@@ -59,6 +59,10 @@ Para instalar o Odysseus OS, siga estas etapas:
 3. **Iniciar a Partir do USB**: Conecte o USB e inicie a partir dele.
 4. **Seguir Instruções**: Complete a instalação conforme as instruções na tela.
 
+### Observação Importante
+
+**ATENÇÃO:** Durante a instalação e enquanto o Odysseus OS estiver em uso, **NÃO marque a opção para fazer atualizações**. Isso pode causar instabilidades e interferir no funcionamento adequado das ferramentas já integradas. É altamente recomendável manter a configuração original para garantir a eficácia das investigações.
+
 ## Contribuição
 
 Contribuições são bem-vindas! Para contribuir:
@@ -87,4 +91,3 @@ Para mais informações, entre em contato:
 ---
 
 Agradecemos por seu interesse no Odysseus OS. Estamos ansiosos para ver como você utilizará esta ferramenta em suas investigações.
-
