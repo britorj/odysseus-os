@@ -63,6 +63,10 @@ Para instalar o Odysseus OS, siga estas etapas:
 
 **ATENÇÃO:** Durante a instalação e enquanto o Odysseus OS estiver em uso, **NÃO marque a opção para fazer atualizações**. Isso pode causar instabilidades e interferir no funcionamento adequado das ferramentas já integradas. É altamente recomendável manter a configuração original para garantir a eficácia das investigações.
 
+## Apresentação
+
+Para mais informações sobre o Odysseus OS, você pode acessar a apresentação em PDF [aqui](odysseus-presentation.pdf).
+
 ## Contribuição
 
 Contribuições são bem-vindas! Para contribuir:
