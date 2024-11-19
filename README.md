@@ -4,6 +4,9 @@
 
 **Odysseus OS** é uma distribuição Linux baseada no Xubuntu 22.04, projetada para atender às necessidades de analistas que trabalham com **OSINT** (Open Source Intelligence). Utilizando o ambiente de desktop **XFCE4**, a distribuição combina uma interface leve e intuitiva com uma robusta coleção de ferramentas para coleta e análise de dados de fontes abertas.
 
+## Desenvolvedor
+
+Desenvolvido por **Franqlin Soares dos Santos**, engenheiro de software e perito em computação forense, o Odysseus OS visa proporcionar uma plataforma eficiente e eficaz para investigações digitais.
 
 ## Requisitos do Sistema
 
@@ -59,6 +62,10 @@ Para instalar o Odysseus OS, siga estas etapas:
 ### Observação Importante
 
 **ATENÇÃO:** Durante a instalação e enquanto o Odysseus OS estiver em uso, **NÃO marque a opção para fazer atualizações**. Isso pode causar instabilidades e interferir no funcionamento adequado das ferramentas já integradas. É altamente recomendável manter a configuração original para garantir a eficácia das investigações.
+
+**Desmarque a opção de atualização na instalação:**
+
+![Desmarque a opção de atualização](dontupdate.png)
 
 ## Apresentação
 
