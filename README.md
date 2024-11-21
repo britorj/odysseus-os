@@ -50,7 +50,7 @@ Odysseus OS também integra as seguintes ferramentas:
 
 Para instalar o Odysseus OS, siga estas etapas:
 
-1. **Download da ISO**: Baixe a imagem ISO do Odysseus OS [aqui](https://drive.google.com/file/d/1fQdedBn9Y5oxCDPeMPfNhucJ0v_HIIWk/view?usp=sharing).
+1. **Download da ISO**: Baixe a imagem ISO do Odysseus OS [AQUI](https://drive.google.com/file/d/1xLpSb_NtZO21PLqZ2VmXiY71D6xHqWrV/view?usp=sharing).
 2. **Criar Disco de Instalação USB**: Use ferramentas como **Rufus** ou **Etcher**.
 3. **Iniciar a Partir do USB**: Conecte o USB e inicie a partir dele.
 4. **Seguir Instruções**: Complete a instalação conforme as instruções na tela.
