@@ -65,7 +65,7 @@ Para instalar o Odysseus OS, siga estas etapas:
 
 **Desmarque a opção de atualização na instalação:**
 
-![Desmarque a opção de atualização](dontupdate.png)
+![Desmarque a opção de atualização](2.png)
 
 ### Imagens do Processo de Instalação
 
