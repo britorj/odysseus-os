@@ -65,16 +65,16 @@ Para instalar o Odysseus OS, siga estas etapas:
 
 ### Imagens do Processo de Instalação
 
-1. ![Imagem 1](1.png)
-2. ![Imagem 2](2.png)
-3. ![Imagem 3](3.png)
-4. ![Imagem 4](4.png)
-5. ![Imagem 5](5.png)
-6. ![Imagem 6](6.png)
-7. ![Imagem 7](7.png)
-8. ![Imagem 8](8.png)
-9. ![Imagem 9](9.png)
-10. ![Imagem 10](10.png)
+![Imagem 1](1.png)
+![Imagem 2](2.png)
+![Imagem 3](3.png)
+![Imagem 4](4.png)
+![Imagem 5](5.png)
+![Imagem 6](6.png)
+![Imagem 7](7.png)
+![Imagem 8](8.png)
+![Imagem 9](9.png)
+![Imagem 10](10.png)
 
 ## Apresentação
 
@@ -101,8 +101,88 @@ Para mais informações, entre em contato:
 
 ## Links Úteis
 
-- [Site do Privoxy](https://www.privoxy.org/)
-- [Documentação do Firefox](https://developer.mozilla.org/pt-BR/docs/Mozilla/Firefox)
-- [GitHub do Projeto](https://github.com/seu_usuario/odysseus-os)
+# Odysseus OS - Ferramentas
+
+Este repositório contém uma lista de ferramentas incluídas no Odysseus OS, úteis para diversas atividades de OSINT (Inteligência de Fonte Aberta).
+
+## Ferramentas
+
+1. **[Bbot](https://github.com/blacklanternsecurity/bbot)**: Ferramenta de automação para testes de penetração.
+   
+2. **[Certgraph](https://github.com/lanrat/certgraph)**: Visualização de relações entre certificados SSL.
+
+3. **[Cloud Fail](https://github.com/m0rtem/CloudFail)**: Ferramenta para descobrir subdomínios em serviços de nuvem.
+
+4. **[Cloud Scraper](https://github.com/jordanpotti/CloudScraper)**: Coletor de dados de serviços de nuvem.
+
+5. **[DNS Recon](https://github.com/darkoperator/dnsrecon)**: Ferramenta para reconhecimento de DNS.
+
+6. **[EO Ripper](https://github.com/Quantika14/email-osint-ripper)**: Coletor de informações por e-mail.
+
+7. **[ExifTool](https://exiftool.org/)**: Ferramenta para leitura, escrita e edição de metadados.
+
+8. **[EyeWitness](https://github.com/RedSiege/EyeWitness.git)**: Ferramenta para capturar screenshots de sites.
+
+9. **[GHunt](https://github.com/mxrch/GHunt)**: Coleta de informações de contas do Google.
+
+10. **[Git Recon](https://github.com/GONZOsint/gitrecon)**: Ferramenta para reconhecimento em repositórios Git.
+
+11. **[Gobuster](https://github.com/OJ/gobuster)**: Ferramenta para brute forcing de diretórios e arquivos.
+
+12. **[Hostintel](https://github.com/keithjjones/hostintel)**: Coleta de informações sobre hosts.
+
+13. **[Infoga](https://github.com/m4ll0k/Infoga)**: Coletor de informações de e-mail.
+
+14. **[Instaloader](https://github.com/instaloader/instaloader)**: Ferramenta para download de dados do Instagram.
+
+15. **[IVRE](https://github.com/ivre/ivre)**: Framework para análise de rede.
+
+16. **[Metagoofil](https://github.com/opsdisk/metagoofil)**: Coletor de metadados de documentos.
+
+17. **[Mr. Holmes](https://github.com/Lucksi/Mr.Holmes)**: Ferramenta para pesquisa de informações em redes sociais.
+
+18. **[OSRFramework](https://github.com/i3visio/osrframework)**: Framework para OSINT.
+
+19. **[Pagodo](https://github.com/opsdisk/pagodo)**: Ferramenta para coleta automatizada de informações.
+
+20. **[Phone Infoga](https://github.com/sundowndev/phoneinfoga)**: Coletor de informações de números de telefone.
+
+21. **[Photon](https://github.com/s0md3v/Photon)**: Ferramenta para coleta de dados da web.
+
+22. **[Protosint](https://github.com/pixelbubble/ProtOSINT)**: Framework para coleta de informações.
+
+23. **[Scanless](https://github.com/vesche/scanless)**: Ferramenta para realizar varreduras sem ser detectado.
+
+24. **[Sherlock](https://github.com/sherlock-project/sherlock)**: Ferramenta para encontrar perfis de usuários em redes sociais.
+
+25. **[Spiderfoot CLI](https://github.com/smicallef/spiderfoot)**: Interface de linha de comando para Spiderfoot.
+
+26. **[Spiderfoot GUI](https://github.com/smicallef/spiderfoot)**: Interface gráfica para Spiderfoot.
+
+27. **[TheHarvester](https://github.com/laramies/theHarvester)**: Ferramenta para coleta de e-mails e subdomínios.
+
+28. **[Tor Bot](https://github.com/DedSecInside/TorBot)**: Bot para navegação anônima.
+
+29. **[WhatWeb](https://github.com/urbanadventurer/WhatWeb)**: Ferramenta para identificar tecnologias usadas em websites.
+
+30. **[XRay](https://github.com/evilsocket/xray)**: Ferramenta para análise de segurança de aplicações web.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 
 ---
