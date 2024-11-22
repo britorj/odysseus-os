@@ -99,11 +99,6 @@ Para mais informações, entre em contato:
 
 - **Email**: [seu_email@example.com](mailto:seu_email@example.com)
 
-## Links Úteis
-
-# Odysseus OS - Ferramentas
-
-Este repositório contém uma lista de ferramentas incluídas no Odysseus OS, úteis para diversas atividades de OSINT (Inteligência de Fonte Aberta).
 
 # Odysseus OS - Ferramentas
 
