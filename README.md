@@ -8,7 +8,7 @@
 
 - **Processador**: Dual-core de 2 GHz ou superior.
 - **Memória RAM**: Mínimo de 4 GB.
-- **Espaço em Disco**: 25 GB de espaço livre.
+- **Espaço em Disco**: 40 GB de espaço livre.
 
 ## Recursos e Funcionalidades
 
@@ -50,7 +50,7 @@ Odysseus OS também integra as seguintes ferramentas:
 
 Para instalar o Odysseus OS, siga estas etapas:
 
-1. **Download da ISO**: Baixe a imagem ISO do Odysseus OS [AQUI](https://drive.google.com/file/d/1xLpSb_NtZO21PLqZ2VmXiY71D6xHqWrV/view?usp=sharing).
+1. **Download da ISO**: Baixe a imagem ISO do Odysseus OS [AQUI](https://drive.google.com/file/d/1DrsWkYef9jiaf0EUx-KUfxBMPhDsX9c_/view?usp=sharing).
 2. **Criar Disco de Instalação USB**: Use ferramentas como **Rufus** ou **Etcher**.
 3. **Iniciar a Partir do USB**: Conecte o USB e inicie a partir dele.
 4. **Seguir Instruções**: Complete a instalação conforme as instruções na tela.
@@ -97,7 +97,7 @@ Este projeto é licenciado sob a **MIT License**. Consulte o arquivo [LICENSE](L
 
 Para mais informações, entre em contato:
 
-- **Email**: [seu_email@example.com](mailto:seu_email@example.com)
+- **Telegram**: [@fqodysseus]
 
 
 # Odysseus OS - Ferramentas
@@ -162,31 +162,23 @@ Você pode acessar o IPED no GitHub da Polícia Federal Brasileira: [https://git
 
 18. **[Mr. Holmes](https://github.com/Lucksi/Mr.Holmes)**: Ferramenta para pesquisa de informações em redes sociais.
 
-19. **[OSRFramework](https://github.com/i3visio/osrframework)**: Framework para OSINT.
+19. **[Pagodo](https://github.com/opsdisk/pagodo)**: Ferramenta para coleta automatizada de informações.
 
-20. **[Pagodo](https://github.com/opsdisk/pagodo)**: Ferramenta para coleta automatizada de informações.
+21. **[Photon](https://github.com/s0md3v/Photon)**: Ferramenta para coleta de dados da web.
 
-21. **[Phone Infoga](https://github.com/sundowndev/phoneinfoga)**: Coletor de informações de números de telefone.
+22. **[Protosint](https://github.com/pixelbubble/ProtOSINT)**: Framework para coleta de informações.
 
-22. **[Photon](https://github.com/s0md3v/Photon)**: Ferramenta para coleta de dados da web.
+23. **[Scanless](https://github.com/vesche/scanless)**: Ferramenta para realizar varreduras sem ser detectado.
 
-23. **[Protosint](https://github.com/pixelbubble/ProtOSINT)**: Framework para coleta de informações.
+24. **[Sherlock](https://github.com/sherlock-project/sherlock)**: Ferramenta para encontrar perfis de usuários em redes sociais.
 
-24. **[Scanless](https://github.com/vesche/scanless)**: Ferramenta para realizar varreduras sem ser detectado.
+25. **[Spiderfoot GUI](https://github.com/smicallef/spiderfoot)**: Interface gráfica para Spiderfoot.
 
-25. **[Sherlock](https://github.com/sherlock-project/sherlock)**: Ferramenta para encontrar perfis de usuários em redes sociais.
+26. **[Tor Bot](https://github.com/DedSecInside/TorBot)**: Bot para navegação anônima.
 
-26. **[Spiderfoot CLI](https://github.com/smicallef/spiderfoot)**: Interface de linha de comando para Spiderfoot.
+27. **[WhatWeb](https://github.com/urbanadventurer/WhatWeb)**: Ferramenta para identificar tecnologias usadas em websites.
 
-27. **[Spiderfoot GUI](https://github.com/smicallef/spiderfoot)**: Interface gráfica para Spiderfoot.
-
-28. **[TheHarvester](https://github.com/laramies/theHarvester)**: Ferramenta para coleta de e-mails e subdomínios.
-
-29. **[Tor Bot](https://github.com/DedSecInside/TorBot)**: Bot para navegação anônima.
-
-30. **[WhatWeb](https://github.com/urbanadventurer/WhatWeb)**: Ferramenta para identificar tecnologias usadas em websites.
-
-31. **[XRay](https://github.com/evilsocket/xray)**: Ferramenta para análise de segurança de aplicações web.
+28. **[XRay](https://github.com/evilsocket/xray)**: Ferramenta para análise de segurança de aplicações web.
 
 ## Contribuições
 
@@ -200,4 +192,3 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 
 
----
