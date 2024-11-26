@@ -67,9 +67,9 @@ Para instalar o Odysseus OS, siga estas etapas:
 GIF(Click para visualizar)
 ![install.gif](install.gif)
 
-![Imagem 5 grub](images/5.png)
-![Imagem 1](images/1.png)
-![Imagem 2](images/2.png)
+![Imagem 1 grub](images/5.png)
+![Imagem 2_splash](images/2.png)
+![Imagem 3_install](images/1.png)
 ![Imagem 6](images/6.png)
 ![Imagem 7](images/7.png)
 ![Imagem 8](images/8.png)
