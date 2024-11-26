@@ -80,14 +80,6 @@ Para instalar o Odysseus OS, siga estas etapas:
 
 Para mais informações sobre o Odysseus OS, você pode acessar a apresentação em PDF [aqui](odysseus-presentation.pdf).
 
-## Contribuição
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Faça um fork do projeto.
-2. Crie uma nova branch para suas alterações.
-3. Realize suas alterações e faça commit.
-4. Envie suas alterações e abra um Pull Request.
 
 ## Licença
 
