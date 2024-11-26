@@ -173,9 +173,6 @@ Você pode acessar o IPED no GitHub da Polícia Federal Brasileira: [https://git
 
 28. **[XRay](https://github.com/evilsocket/xray)**: Ferramenta para análise de segurança de aplicações web.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
 
