@@ -75,7 +75,9 @@ Para instalar o Odysseus OS, siga estas etapas:
 ![Imagem 9](images/9.png)
 ![Imagem 10](images/10.png)
 
+GIF--------
 ![Imagem 10](images/install.gif)
+
 ## Apresentação
 
 Para mais informações sobre o Odysseus OS, você pode acessar a apresentação em PDF [aqui](odysseus-presentation.pdf).
