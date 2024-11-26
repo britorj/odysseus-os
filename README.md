@@ -71,11 +71,10 @@ GIF(Click para visualizar)
 ![Imagem 2_splash](images/2.png)
 ![Imagem 3_install](images/1.png)
 ![Imagem 8_type_of_installation](images/8.png)
-![Imagem 6](images/6.png)
-![Imagem 7](images/7.png)
-![Imagem 9](images/9.png)
-![Imagem 10](images/10.png)
-
+![Imagem 10_keyboard](images/10.png)
+![Imagem 6_apps1](images/6.png)
+![Imagem 7_apps2](images/7.png)
+![Imagem 9_apps3](images/9.png)
 
 
 ## Apresentação
