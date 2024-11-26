@@ -182,6 +182,15 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
+## Disclaimer 
+**ATENÇÃO: A instalação e o uso do Odysseus OS são de total responsabilidade do usuário. Os riscos e possíveis problemas decorrentes do uso do sistema são assumidos pelo usuário.
 
+Nota: O uso de VPN é opcional e fica a critério do usuário. Abaixo estão algumas opções de VPN para Linux:
+
+OpenVPN: Solução VPN popular e de código aberto.
+WireGuard: VPN moderna e rápida, fácil de configurar.
+ProtonVPN: Serviço de VPN focado em privacidade com cliente para Linux.
+NordVPN: Provedor de VPN conhecido com cliente para Linux.
+ExpressVPN: Outro provedor popular de VPN com suporte para Linux.
 
 
